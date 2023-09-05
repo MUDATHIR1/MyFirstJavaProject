@@ -36,7 +36,8 @@ public class W3SchoolsLearning {
 int Increment = 2;
 System.out.println(Increment);
 
-
+int decreement = 5;
+System.out.println(decreement);
 			
 
 
